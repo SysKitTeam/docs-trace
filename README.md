@@ -1,2 +1,2 @@
-# docs-trace
-SysKit Trace documentation
+# SysKit Trace
+
