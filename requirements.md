@@ -15,7 +15,7 @@ In order to prepare for the SysKit Trace deployment, the following requirements 
 * Windows 10 or Windows Server 2016 or above 
 * PowerShell 5.1 or above 
 
-SysKit Trace will also install additional PowerShell modules once the first snapshot attempt has been made. The modules are as follows:
+SysKit Trace will also install additional PowerShell modules once the first snapshot attempt has been made. The modules are as follows: 
 
 * ReverseDSC 
 * MSOnline 
@@ -26,7 +26,7 @@ SysKit Trace will also install additional PowerShell modules once the first snap
 * MSCloudLoginAssistant 
 * Microsoft.PowerApps.Administration.PowerShell 
 
-## User Permission Requirements
+## User Permission Requirements 
 
 * **Local administrator** to install and run the application 
 * An Office 365 account with the **Global admin role** to perform the tenant snapshot
