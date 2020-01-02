@@ -22,5 +22,3 @@ The following commands are available:
 * **Mark Configuration as Good** – use this button to mark which Trace snapshot captured your SOffice 365 tenant settings configured in a best possible way. 
 * **Load Duration** - this column displays how long it took to take a snapshot of your environment.
 
-
-
