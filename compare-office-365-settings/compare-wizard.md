@@ -33,5 +33,5 @@ If you would like to import these snapshots permanently, click the **Import** bu
 5. Click Next to see the compare results.
 
 The Results windows shows the differences between the two tenants. Object changes are marked by a different colors. The upper part of the window shows all the objects in a hierarchical structure, while the bottom half displays the differences between currently selected objects in the upper half.
-The compare process uses the [Compare template]() when displaying changes between snapshots. If you would like to change which reports are compared, use the little wheel button on the left-hand side. Deselected reports will not be used in future comparisons.
+The compare process uses the [Compare template](../configure-syskit-trace/options-wizard.md) when displaying changes between snapshots. If you would like to change which objects are compared, use the little wheel button on the left-hand side. Deselected objects will not be used in future comparisons.
 
