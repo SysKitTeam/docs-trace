@@ -1,15 +1,15 @@
 ---
-title: Backstage Screen
+title: Home Screen
 description: >-
-  This article describes the available SysKit Trace Backstage actions and when to
+  This article describes the available SysKit Trace Home Screen actions and when to
   use them.
 author: Vinko Bedek
 date: 1/16/2017
 ---
 
-# Backstage Screen
+# Home Screen
 
-The Backstage Actions view is a set of commands that can be used to quickly approach major SysKit Trace options.
+The Home Screen is a set of actions that can be used to quickly approach major SysKit Trace options.
 
 The following options are available:
 
