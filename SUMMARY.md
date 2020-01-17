@@ -8,4 +8,10 @@
 * [Create Office 365 Snapshots](create-office-365-snapshots/README.md)
   * [Snapshots Screen](create-office-365-snapshots/snapshots-screen.md)
   * [Manual Snapshots](create-office-365-snapshots/manual-snapshots.md)
+* [Compare Office 365 Settings](compare-office-365-settings/README.md)
+  * [Compare Wizard](compare-office-365-settings/compare-wizard.md)
+* [Configure SysKit Trace](configure-syskit-trace/README.md)
+  * [Home Screen](configure-syskit-trace/home-screen.md)
+  * [Options Wizard](configure-syskit-trace/options-wizard.md)
+
 
