@@ -11,7 +11,7 @@
 * [Compare Office 365 Settings](compare-office-365-settings/README.md)
   * [Compare Wizard](compare-office-365-settings/compare-wizard.md)
 * [Configure SysKit Trace](configure-syskit-trace/README.md)
-  * [Backstage Screen](configure-syskit-trace/backstage-screen.md)
+  * [Home Screen](configure-syskit-trace/home-screen.md)
   * [Options Wizard](configure-syskit-trace/options-wizard.md)
 
 
