@@ -7,9 +7,10 @@ author: Vinko Bedek
 date: 1/16/2020
 ---
 
-# Compare Wizard
+# Compare Settings
 
-Compare Wizard provides the possibility to track Office 365 tenant changes and compare specific settings either on the same tenant or between different tenants.
+SysKit Trace allows us to compare snapshots by using the Compare Wizard.  
+The Compare Wizard provides the possibility to track Office 365 tenant changes and compare specific settings either on the same tenant or between different tenants.
 With a couple of easy steps you can view the desired differences and export the result.  
 Before you can use the Compare Wizard you are required to have at least two snapshots [created](../create-office-365-snapshots/manual-snapshot.md).
 To use the Compare Wizard click the **Compare Wizard** button on the [Home Screen](../configure-syskit-trace/home-screen.md).

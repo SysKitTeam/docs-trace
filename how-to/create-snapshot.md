@@ -1,14 +1,18 @@
 ---
+title: Create Snapshot
 description: >-
   This article explains how to easily create documentation of Office 365
   configuration settings using SysKit Trace.
+author: Vinko Bedek
+date: 1/17/2020
 ---
 
-# Manual Snapshots
+# Create Snapshot
 
-This section describes how to use Snapshot wizard to collect  Office 365 configuration settings.
+A snapshot in the context of SysKit Trace is a collection of all the Office 365 configuration settings taken at a specific point in time. 
+This section describes how to use the Take Snapshot wizard to create a snapshot.
 
-1. Navigate to the Actions Screen and click the Take Snapshot button.
+1. Navigate to the **Home Screen** Screen and click the Take Snapshot button.
 2. If you are running the Snapshot Wizard for the first time please **enter the global admin credentials** for Office 365 tenant that you wish to document. The entered credentials will be stored for future data collection \(multiple tenants supported\).
 3. Select the snapshot mode you wish the application to execute. There are three choices:
    1. **Default** – predefined set of configuration setttings will be loaded.
