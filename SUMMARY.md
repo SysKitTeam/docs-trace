@@ -7,6 +7,7 @@
 * [Licensing and Activation](licensing-and-activation/README.md)
   * [Activate SysKit Trace](licensing-and-activation/activate-syskit-trace.md)
   * [Activation Privacy Statement](licensing-and-activation/activation-privacy-statement.md)
+  * [Activation FAQ](licensing-and-activation/activation-faq.md)
 * [Get To Know SysKit Trace](get-to-know-syskit-trace/README.md)
   * [Home Screen](get-to-know-syskit-trace/home-screen.md)
   * [Snapshots Screen](get-to-know-syskit-trace/snapshots-screen.md)    
