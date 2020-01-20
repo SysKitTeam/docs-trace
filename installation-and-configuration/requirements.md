@@ -37,7 +37,9 @@ SysKit Trace will also install additional PowerShell modules once the first snap
 ## User Permission Requirements 
 
 * **Local administrator** to install and run the application 
-* An Office 365 account with the **Global admin role** to perform the tenant snapshot
+* An Office 365 account with the **Global admin role** to perform the tenant snapshot.  
+  The account needs to have a **product license** assigned. SharePoint, Exchange, Teams and OneDrive need to be included in the selected product license.  
+  Otherwise, SysKit Trace will fail to create snapshots.
 * Alternatively, a combination of Exchange admin, SharePoint admin, Teams admin, User admin, Compliance admin roles will load most of the data. Nonetheless, the Global Admin role is recommended. 
 
 {% hint style="info" %}
