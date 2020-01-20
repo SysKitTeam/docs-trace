@@ -16,7 +16,7 @@ The trial is the latest released application version containing all available ap
 The trial version of SysKit Trace has a couple of limitations:
 
 * Limited information in the generated documentation and exported reports. Export to .docx or .xlsx formats is not available. You can see examples of how exported [reports](https://www.syskit.com/products/trace/resources/documentation-report-examples/) and [documentation](https://www.syskit.com/products/trace/resources/documentation-report-examples/) look like in the full version.
-* The comparison feature is completely functional when comparing the same farm.
+* The comparison feature is completely functional when comparing the same tenant.
   * Comparison of different Office365 tenants with snapshots made with the trial software is not possible.
 
 If you would like to see more about the limited features, [contact us](https://www.syskit.com/company/contact-us/) and we will be more than happy to organize a demo for you and your colleagues to show SysKit Trace at its full strength.

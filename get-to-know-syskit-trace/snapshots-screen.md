@@ -22,7 +22,7 @@ The following commands are available on this screen:
 * **Export**– use this button to export the snapshot so that it can be transferred to any other location. 
 * **Show Changes** – shows differences between the currently selected snapshot and an older snapshot \(if one exists\).
 * **Compare Wizard**– starts Compare Wizard for more complex comparisons.
-* **Compare to Local** – compares a snapshot with the currently loaded local farm.
+* **Compare to Local** – compares the selected snapshot with the currently loaded one.
 * **Compare Selected**  – if two snapshots are selected, this button compares SharePoint settings stored in these two.
 * **Mark Configuration as Good** – use this button to mark which snapshot captured your Office 365 tenant with all the settings configured in a best possible way.
 
