@@ -1,3 +1,11 @@
+---
+title: Requirements
+description: >-
+  This article list the requirements needed to run and use SysKit Trace
+author: Vinko Bedek
+date: 1/20/2020
+---
+
 # Requirements
 
 In order to prepare for the SysKit Trace deployment, the following requirements need to be met:

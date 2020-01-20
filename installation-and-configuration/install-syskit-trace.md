@@ -3,7 +3,7 @@
 **SysKit Trace** is a desktop application with a web-based interface, meaning that you need to install it on a Windows machine or server in your environment. Azure virtual machines are supported as well.
 
 {% hint style="warning" %}
-Check the exact exact [hardware and software requirements ](../requirements.md)for this deployment.
+Check the exact exact [hardware and software requirements ](./requirements.md)for this deployment.
 {% endhint %}
 
 ### Installation Steps

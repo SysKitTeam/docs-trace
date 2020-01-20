@@ -2,7 +2,7 @@
 title: Options Wizard
 description: >-
   This article explains how to use the Options wizard to adjust and change your
-  SysKit Sense configuration.
+  SysKit Trace configuration.
 author: Vinko Bedek
 date: 1/16/2020
 ---

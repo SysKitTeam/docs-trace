@@ -1,8 +1,8 @@
 # Table of contents
 
 * [SysKit Trace](README.md)
-* [Requirements](requirements.md)
 * [Installation and Configuration](installation-and-configuration/README.md)
+  * [Requirements](installation-and-configuration/requirements.md)
   * [Install SysKit Trace](installation-and-configuration/install-syskit-trace.md)
 * [Licensing and Activation](licensing-and-activation/README.md)
   * [Activate SysKit Trace](licensing-and-activation/activate-syskit-trace.md)

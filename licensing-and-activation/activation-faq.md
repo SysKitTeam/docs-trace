@@ -1,4 +1,5 @@
 ---
+title: Activation FAQ
 description: >-
   This article provides answers to most frequently asked questions regarding
   activation.
