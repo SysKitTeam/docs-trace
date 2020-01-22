@@ -1,6 +1,8 @@
 # Table of contents
 
 * [SysKit Trace](README.md)
+* [Product Updates](product-updates/README.md)
+  * [SysKit Trace 1.0.0](product-updates/trace-1-release-note.md)
 * [Installation and Configuration](installation-and-configuration/README.md)
   * [Requirements](installation-and-configuration/requirements.md)
   * [Install SysKit Trace](installation-and-configuration/install-syskit-trace.md)
