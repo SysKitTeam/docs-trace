@@ -22,7 +22,7 @@ SysKit Trace allows users to create professional-looking Word, Excel, or PDF fil
 
 ## Detect Office 365 Changes
 
-SysKit Trace compares your settings over time and between tenants and helps you detect any misconfigurations. 
+SysKit Trace compares your settings over time and between tenants and helps you detect any misconfigurations. You can mark configuration as good, which will allow you to compare all the future configurations with the marked configuration.
 You can find out if global or specific external sharing settings have been changed, whether security and compliance policies setup is correct, or if your Microsoft Teams settings are configured consistently over time. Export these results into easy to read XLSX files to share with your managers and customers. 
 
 ## Plug and play solution
@@ -35,6 +35,6 @@ It is a plug and play solution, installed in a blink of an eye.
 
 ## Tell us what you think! 
 
-Your feedback and suggestions will help us build better SharePoint admin tools, so please feel free to [contact](https://feedback.syskit.com/) us and send us your feedback and suggestions.
+Your feedback and suggestions will help us build better SharePoint admin tools, so please feel free to [contact](https://feedback.syskit.com/?project=TRACE) us and send us your feedback and suggestions.
 
 [Try SysKit Trace Free](https://www.syskit.com/products/trace/download/)
