@@ -1,6 +1,6 @@
 # SysKit Trace
 
-SysKit Trace is easy-to-use solution for documenting and administering Office 365 tenant configuration settings. The tool scans your entire Office 365 tenant, **crawls through multiple Office 365 workloads** and **reports on the most important configuration settings**, leaving you with enough time to deal with more mission-critical tasks.
+SysKit Trace is an easy-to-use solution for documenting and administering Office 365 tenant configuration settings. The tool scans your entire Office 365 tenant, **crawls through multiple Office 365 workloads** and **reports on the most important configuration settings**, leaving you with enough time to deal with more mission-critical tasks.
 
 **Features:**
 

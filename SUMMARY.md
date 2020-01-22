@@ -18,7 +18,7 @@
   * [Compare Settings](how-to/compare-settings.md)
   * [Office 365 Documentation](how-to/office-365-documentation/README.md)
     * [Create-Documentation](how-to/office-365-documentation/create-documentation.md)
-    * [Customize-Documentation-Template](how-to/office-365-documentation/customize-documentation-template.md)
+    * [Customize Documentation Template](how-to/office-365-documentation/customize-documentation-template.md)
 
 
 
