@@ -1,7 +1,7 @@
 ---
 title: Create Snapshot
 description: >-
-  This article explains how to easily create documentation of Office 365
+  This article explains how to easily create a snapshot of Office 365
   configuration settings using SysKit Trace.
 author: Vinko Bedek
 date: 1/17/2020

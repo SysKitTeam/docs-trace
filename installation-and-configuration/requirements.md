@@ -1,7 +1,7 @@
 ---
 title: Requirements
 description: >-
-  This article list the requirements needed to run and use SysKit Trace
+  This article lists the requirements needed to run and use SysKit Trace
 author: Vinko Bedek
 date: 1/20/2020
 ---
@@ -33,6 +33,8 @@ SysKit Trace will also install additional PowerShell modules once the first snap
 * AzureAD 
 * MSCloudLoginAssistant 
 * Microsoft.PowerApps.Administration.PowerShell 
+
+You do not need to install any of the modules manually. These modules are listed here for informational purposes only. You may want to install SysKit Trace on another machine if you are dependant on a specific version of any of these modules.
 
 ## User Permission Requirements 
 
