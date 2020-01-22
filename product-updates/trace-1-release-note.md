@@ -7,7 +7,7 @@ SysKit Trace is a centralized solution for documenting and tracking changes on O
 [Try SysKit Trace Free](https://www.syskit.com/products/trace/download/)
 
 **Product version:** 1.0.0  
-**Build number:** 247  
+**Build number:** 274  
 **Release date:** Jan 22, 2020
 
 ## Document Office 365 Tenants
