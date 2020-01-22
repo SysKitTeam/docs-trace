@@ -2,7 +2,7 @@
 title: Options Wizard
 description: >-
   This article explains how to use the Options wizard to adjust and change your
-  SysKit Sense configuration.
+  SysKit Trace configuration.
 author: Vinko Bedek
 date: 1/16/2020
 ---
@@ -43,4 +43,4 @@ Here you can define with which snapshot the current one is compared when detecti
 If you choose option 2. and there are no snapshots marked as good, SysKit Trace will compare the current snapshot to the last snapshot taken. The same rule applies if you choose option 3. and the selected snapshot gets deleted.
 {% endhint %}
 
-This section also allows you to define which objects should be compared in the Compare Wizard. The selection you make here will be used as a default template when comparing two farms, but you can modify it directly in the Compare Wizard each time you use it.
+This section also allows you to define which objects should be compared in the Compare Wizard. The selection you make here will be used as a default template when comparing two Office 365 tenants, but you can modify it directly in the Compare Wizard each time you use it.

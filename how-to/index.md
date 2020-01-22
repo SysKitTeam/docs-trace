@@ -3,5 +3,3 @@ layout: listing.pug
 ---
 
 # index
-
-
