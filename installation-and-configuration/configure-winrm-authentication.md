@@ -6,17 +6,17 @@ description: >-
 
 # Configure Windows Remote Management (WinRM)
 
-In order to successfully collect data, **SysKit Trace** will create a remote PowerShell session to the Security & Compliance Center.
+In order to successfully collect data, **SysKit Trace** will create a **remote PowerShell session** to the Security & Compliance Center.
 
 To make sure that collection can work properly, Windows Remote Management (WinRM) on your computer needs to allow **Basic authentication** (it's enabled by default). 
 
 ### Enabling Basic Authentication
 
-1. To verify that Basic authentication is enabled, run this command in a **Command Prompt**:
+**1.** To verify that Basic authentication is enabled, run this command in a **Command Prompt**:
 
 `winrm get winrm/config/client/auth`
 
-2. If you don't see the value `Basic = true`, you need to run this command to enable Basic authentication for WinRM:
+**2.** If you don't see the value `Basic = true`, you need to run this command to enable Basic authentication for WinRM:
 
 `winrm set winrm/config/client/auth @{Basic="true"}`
 
