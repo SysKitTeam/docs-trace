@@ -26,4 +26,4 @@ If Basic authentication is disabled, you'll get this error when creating a snaps
 
 
 
-For more information about creating PowerShell remote sessions, please visit: https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps
+For more information about creating PowerShell remote sessions, please visit: [https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps]
