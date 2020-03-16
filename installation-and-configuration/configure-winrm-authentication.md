@@ -10,7 +10,7 @@ In order to successfully collect data when creating a snapshot, **SysKit Trace**
 
 To make sure that collection can work properly, Windows Remote Management (WinRM) on your computer needs to allow **Basic authentication** (it's enabled by default).
 
-**Multi - Factor Authentication**
+**Multi-Factor Authentication**
 
 Even when using MFA, the WinRM Basic authentication needs to be enabled, because the Basic authentication header is still required to transport the session's OAuth token, since the client-side WinRM implementation has no support for OAuth.
 
