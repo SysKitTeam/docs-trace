@@ -6,7 +6,7 @@ description: >-
 
 # Configure Windows Remote Management (WinRM)
 
-In order to successfully collect data when creating a snapshot, **SysKit Trace** will use a **remote PowerShell session** to connect to the Office 365. This is required to collect the data for Security & Compliance, Exchange Online and some Teams reports.
+In order to successfully collect data when creating a snapshot, **SysKit Trace** will use a **remote PowerShell session** to connect to Office 365. This is required to collect the data for Security & Compliance, Exchange Online and some Teams reports.
 
 To make sure that collection can work properly, Windows Remote Management (WinRM) on your computer needs to allow **Basic authentication** (it's enabled by default).
 
@@ -15,6 +15,8 @@ To make sure that collection can work properly, Windows Remote Management (WinRM
 Even when using MFA, the WinRM Basic authentication needs to be enabled, because the Basic authentication header is still required to transport the session's OAuth token, since the client-side WinRM implementation has no support for OAuth.
 
 ### Enabling Basic Authentication
+
+Note: To enable executing commands from following steps, make sure that *Windows Remote Management* service is running.
 
 **1.** To verify that Basic authentication is enabled, run this command in a **Command Prompt**:
 
