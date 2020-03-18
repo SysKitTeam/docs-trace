@@ -6,6 +6,7 @@
 * [Installation and Configuration](installation-and-configuration/README.md)
   * [Requirements](installation-and-configuration/requirements.md)
   * [Install SysKit Trace](installation-and-configuration/install-syskit-trace.md)
+  * [Office 365 Connection Details](installation-and-configuration/office-365-connection-details.md)
 * [Licensing and Activation](licensing-and-activation/README.md)
   * [Activate SysKit Trace](licensing-and-activation/activate-syskit-trace.md)
   * [Activation Privacy Statement](licensing-and-activation/activation-privacy-statement.md)
