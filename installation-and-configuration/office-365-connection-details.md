@@ -30,13 +30,12 @@ When configuring SysKit Trace an Azure Active Directory Application will be crea
 You can find the SysKit Trace application in the [Azure Portal](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps) once SysKit Trace has been configured. 
 
 There are two ways to authenticate an Azure Active Directory Application with Azure AD when using the applications identity.
-1. application secrets
-2. certificates  
+1. Application secrets
+2. Certificates  
 
 SysKit Trace uses certificates because most of the workloads that are collected support it.
-A certificate is created and imported into the current user personal certificates for both the user configuring SysKit Trace and the service account that is configured to run the SysKit Trace service.
-This is the reason why we also require a specific windows service account for the SysKit Trace windows service. The alternative would be to put the certificate in the local machine certificate store and such a thing would be unsafe on shared machines since the certificate would be available to all users.
-Nonetheless, we still advise that the machine where SysKit Trace is installed is secure and not shared with other people.
+A certificate is created and imported into the current user personal certificates for both the user configuring SysKit Trace and the service account that is configured to run the SysKit Trace service.  
+We advise that the machine where SysKit Trace is installed is secure and not shared with other people.
 
 ## Multi-Factor Authentication: App Password
 In addition to this, an app password is required for the Exhange Online and Security and Compliance workloads when using multi-factor authentication. 
