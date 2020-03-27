@@ -51,7 +51,7 @@ To remove created Azure AD Application take the following steps:
 
 2. Type 'SysKit Trace' in the search field and then select the application with the same name.
 
-3. Press delete
+3. Press Delete
 
 ![Press delete:](../.gitbook/assets/remove-trace-aad-app.png)
 
