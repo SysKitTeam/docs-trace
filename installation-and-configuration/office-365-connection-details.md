@@ -41,11 +41,11 @@ A certificate is created and imported into the current user personal certificate
 We advise that the machine where SysKit Trace is installed is secure and not shared with other people.
 
 
-### Deleting SysKit Trace Azure AD Application from Azure
+### Deleting the SysKit Trace Azure Active Directory Application
 
-Although removing a connection in SysKit Trace configuration wizard will remove all the data related to that connection from your local machine, it will not delete the created Azure AD Application.
+Although removing a connection in SysKit Trace configuration wizard will remove all the data related to that connection (except for created snapshots) from your local machine, it will not delete the created Azure Active Directory Application.
 
-To remove created Azure AD Application take the following steps:
+To remove created Azure Active Directory Application take the following steps:
 
 1. Go to [Azure Portal](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps)
 
