@@ -40,6 +40,22 @@ SysKit Trace uses certificates for two reasons.
 A certificate is created and imported into the current user personal certificates for both the user configuring SysKit Trace and the service account that is configured to run the SysKit Trace service.  
 We advise that the machine where SysKit Trace is installed is secure and not shared with other people.
 
+
+### Deleting the SysKit Trace Azure Active Directory Application
+
+Although removing a connection in SysKit Trace configuration wizard will remove all the data related to that connection (except for created snapshots) from your local machine, it will not delete the created Azure Active Directory Application.
+
+To remove created Azure Active Directory Application take the following steps:
+
+1. Go to [Azure Portal](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps)
+
+2. Type 'SysKit Trace' in the search field and then select the application with the same name.
+
+3. Press Delete
+
+![Press delete:](../.gitbook/assets/remove-trace-aad-app.png)
+
+
 ## Multi-Factor Authentication: App Password
 In addition to this, an app password is required for the Exhange Online and Security and Compliance workloads when using multi-factor authentication. 
 You can setup app passwords by following [these](https://docs.microsoft.com/en-us/azure/active-directory/user-help/multi-factor-authentication-end-user-app-passwords) instructions.
