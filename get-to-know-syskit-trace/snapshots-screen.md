@@ -16,6 +16,8 @@ This screen will display all previously created snapshots. **Bolded** snapshot n
 
 The following commands are available on this screen:
 
+* **Take Snapshot** - starts the Take Snapshot Wizard to take a snapshot of Office 365 configuration settings.
+* **Take Snapshot with Service** - This button is available when clicking the dropdown part of the **Take Snapshot** button. The service start collecting the data in the background in accordance with the selection from the [snapshot options](../get-to-know-syskit-trace/options-wizard.md#snapshot-options).
 * **Open** – open currently selected snapshot.
 * **Delete**– this button will delete the currently selected snapshot from previously defined snapshot locations.
 * **Import** – use this button to add a snapshot to this list from any other location. Once that the snapshot is imported, it remains here until the user removes it.
