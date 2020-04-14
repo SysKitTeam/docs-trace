@@ -29,6 +29,12 @@ Here you can also change the report throttling options:
 * Modify the maximum number of rows in a report.
 * Modify the maximum number of rows supported in report export.
 
+## Snapshot Options
+
+Allows you to customize the default configuration settings that are collected when a snapshot is created. This selection is used in two places:
+1. the default mode of the Take Snapshot Wizard
+2. by the SysKit Trace service when creating a snapshot
+
 
 ## Compare
 
