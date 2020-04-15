@@ -60,3 +60,52 @@ SysKit Trace requires permissions to access several Microsoft APIs. There are tw
 * **Delegated permissions** - define what SysKit Trace can do in the name of the signed in user.
 
 The following permissions are required for the SysKit Trace Azure AD Application:
+
+**Microsoft Graph**
+
+| Permissions | Type | Reason |
+| :--- | :--- | :--- |
+| Read all administrative units | Application | Allows SysKit Trace to read administrative units and administrative unit membership. |
+| Read all groups | Application | Allows SysKit Trace to read group properties. |
+| Read all group memberships | Application | Allows SysKit Trace to read group memberships. |
+| Send mail as any user | Application | Allows SysKit Point to send emails so you can be notified ie. a snapshot finishes. |
+| Have full control of all site collections | Application | Allows SysKit Trace to collect data from SharePoint. Unfortunately full control is required and it will not work with read permissions. |
+| Sign users in | Delegated | Allows SysKit Trace to collect data from your environment as signed in user. |
+| Read all users' full profiles | Delegated | Allows SysKit Trace to read your users profiles and show you reports based on that data. |
+
+
+**Azure Active Directory Graph**
+
+| Permissions | Type | Reason |
+| :--- | :--- | :--- |
+| Read directory data | Application | Allows SysKit Trace to read data in your company or school directory, such as users, groups, and apps. |
+| Read all hidden memberships | Application | Allows the app to read the memberships of hidden groups and administrative units. |
+
+
+**SharePoint**
+
+| Permissions | Type | Reason |
+| :--- | :--- | :--- |
+| Have full control of all site collections | Application | Allows SysKit Trace to collect data from SharePoint. Unfortunately full control is required and it will not work with read permissions. |
+| Read user profiles | Application | Allows SysKit Trace to read user profile properties. |
+
+
+**Teams and Skype for Business Administration**
+
+| Permissions | Type | Reason |
+| :--- | :--- | :--- |
+| Have full access to the Skype Remote Powershell Azure services | Delegated | Allow SysKit Trace to collect Skype for Business data on behalf of the signed-in user. |
+
+
+**PowerApps Service**
+
+| Permissions | Type | Reason |
+| :--- | :--- | :--- |
+| Access the PowerApps Service API | Delegated | Allows SysKit Trace to access the PowerApps Service API on behalf of a user. |
+
+
+**Azure Service Management**
+
+| Permissions | Type | Reason |
+| :--- | :--- | :--- |
+| Access Azure Service Management as organization users | Delegated | Allows SysKit Trace to collect data about PowerApps. |

@@ -27,7 +27,8 @@ In addition to this SysKit Trace uses [Office365DSC](https://github.com/microsof
 
 ## SysKit Trace Azure AD Application
 When configuring SysKit Trace an Azure Active Directory Application will be created and pre-consented for the user to collect the data from the tenant. This enables us to consume all of the APIs provided by Microsoft in a standard and well defined way. It also enables us to use modern authentication including Multi-Factor Authentication.  
-You can find the SysKit Trace application in the [Azure Portal](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps) once SysKit Trace has been configured. 
+You can find the SysKit Trace application in the [Azure Portal](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps) once SysKit Trace has been configured.  
+More about the permissions that are consented to automatically is available in the [permission requirements](../requirements/permission-requirements.md#syskit-trace-app-permissions) article.
 
 There are two ways to authenticate an Azure Active Directory Application with Azure AD when using the applications identity.
 1. Application secrets
