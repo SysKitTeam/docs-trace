@@ -26,7 +26,7 @@ SysKit Trace will automatically install the following PowerShell modules to coll
 In addition to this SysKit Trace uses [Office365DSC](https://github.com/microsoft/Office365DSC) but it is not installed as a module available to the user.
 
 ## SysKit Trace Azure AD Application
-When configuring SysKit Trace an Azure Active Directory Application will be created and pre-consented for the user to collect the data from the tenant.
+When configuring SysKit Trace an Azure Active Directory Application will be created and pre-consented for the user to collect the data from the tenant. This enables us to consume all of the APIs provided by Microsoft in a standard and well defined way. It also enables us to use modern authentication including Multi-Factor Authentication.  
 You can find the SysKit Trace application in the [Azure Portal](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps) once SysKit Trace has been configured. 
 
 There are two ways to authenticate an Azure Active Directory Application with Azure AD when using the applications identity.

@@ -17,7 +17,7 @@ The evaluation license of SysKit Trace has a couple of limitations:
 
 * Limited information in the generated documentation and exported reports. Limited export in the .docx or .xlsx formats. 
 * The comparison feature is completely functional when comparing the same tenant.
-  * Comparison of different Office365 tenants with snapshots made with the evaluation license is not possible.
+  * Comparison of different Office 365 tenants with snapshots made with the evaluation license is not possible.
 
 If you would like to see more about the limited features, [contact us](https://www.syskit.com/company/contact-us/) and we will be more than happy to organize a demo for you and your colleagues to show SysKit Trace at its full strength.
 
@@ -31,8 +31,8 @@ Everyone who downloads SysKit Trace will be required to activate the product. If
 
 ## How soon must I activate my product?
 SysKit Trace will not work without a valid product key. When downloading the tool you will be provided with an evaluation license that is valid for a limited amount of time.
-This license as the name suggests is for evaluation purposes only, and some limitations apply. Once the evaluation period is over you will need to acquire a proper license.
-The default evaluation period is set to 14 days. After the period expires, the application will stop working until it is activated with a new license.
+This license, as the name suggests is for evaluation purposes only, and some limitations apply. Once the evaluation period is over you will need to acquire a proper license by buying the software.
+The default evaluation period is set to 14 days. In special circumstances SysKit can extend your evaluation period if a valid reason is provided. After the period expires, the application will stop working until it is activated with a new license.
 
 ## How do I activate my product?
 
@@ -44,7 +44,7 @@ We use the information only to verify that your product is used within the scope
 
 ## What is product activation?
 
-Product activation is an anonymous, secure and hassle-free process that authenticates licensed users during the installation process. The process verifies that the product product account information indentified by the product key is genuine and has not been activated on more systems than allowed by the SysKit End-User License Agreement \(EULA\).
+Product activation is an anonymous, secure and hassle-free process that authenticates licensed users during the installation process. The process verifies that the product account information indentified by the product key is genuine and has not been activated on more systems than allowed by the SysKit End-User License Agreement \(EULA\).
 
 ## Why does SysKit require their customers to activate the software?
 

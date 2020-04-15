@@ -9,7 +9,8 @@ date: 1/17/2020
 
 # Activate SysKit Trace
 
-After the purchase of SysKit Trace, you will be provided with the license key for the product activation.  
+After downloading SysKit Trace, you will be provided with the license key for the product activation. 
+If you did not yet purchase SysKit Trace, an evaluation license will be provided for you. The evaluation license works for 14 days. 
 
 At any time, you can log in to SysKit [Customers Portal](https://my.syskit.com/) and navigate to the list of your licensed products and find the license key there. If you do not have the activation information, please [contact us](https://www.syskit.com/company/contact-us).
 

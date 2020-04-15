@@ -18,7 +18,7 @@ In the Configuration Wizard, you will need to provide the following information:
 * **Office 365 Global admin account**
 
 {% hint style="info" %}
-For a detailed overview of the **SysKit Point system and permission requirements**, [navigate to the Requirements section](../requirements/).
+For a detailed overview of the **SysKit Trace system and permission requirements**, [navigate to the Requirements section](../requirements/).
 {% endhint %}
 
 
@@ -29,7 +29,7 @@ For a detailed overview of the **SysKit Point system and permission requirements
 Click the **Connect** button to connect SysKit Trace to your Office 365 tenant. **You need to provide the Office 365 global admin account.** This [account](../requirements/permission-requirements.md#global-administrator) will be used to configure the [tenant connection](./office-365-connection-details.md).  
 
 Once the login process has finished you will need to provide some additional info for the connection to work. 
-This is also the place where you can configure automatic snapshots.
+This is also the place where you can configure automatic snapshots and notifications.
 
 ### Service Settings
 

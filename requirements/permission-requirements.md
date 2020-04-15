@@ -24,14 +24,16 @@ A service account is a user account that is created explicitly to provide a secu
 
 ### Global Administrator
 
-**When connecting to an Office 365 tenant** during the [configuration](../installation-and-configuration/configure-syskit-point.md#office-365-connection) process, **you need to connect with a Global Administrator account.**
+**When connecting to an Office 365 tenant** during the [configuration](../installation-and-configuration/configure-syskit-trace.md#office-365-connection) process, **you need to connect with a Global Administrator account.**
 
-**The first time you connect to your Office 365 tenant, you will be prompted to give consent** to a set of permissions that SysKit Trace requires to function correctly. Additional prompts may show up in the future when installing a newer version of SysKit Point because of new functionality, and in consequence, potentially new required permissions.  
+**The first time you connect to your Office 365 tenant, you will be prompted to give consent** to a set of permissions that SysKit Trace requires to function correctly. Additional prompts may show up in the future when installing a newer version of SysKit Trace because of new functionality, and in consequence, potentially new required permissions.  
 
 The consented permissions will be used to perform the [tenant connection](./office-365-connection-details.md) configuration.
 It will also be used for collecting data for some workloads that do not support an application identity.
 For this reason, the account needs to have a **product license** assigned. Exchange and Teams need to be included in the selected product license.    
-Once the tenant connection has been established the global admin role can be removed from the account. 
+
+#### Avoiding Global Admin permissions
+Once the tenant connection has been established and the Configuration Wizard finishes, the global admin role can be removed from the account. 
 If you choose to do so you will need to assign some roles to the user because as mentioned in the [tenant connection](./office-365-connection-details.md) article, some workloads cannot be read by the Azure Application and must be retrieved with the identity of a user.
 
 A combination of:
@@ -40,4 +42,21 @@ A combination of:
 - PowerApps admin
 - Compliance admin 
 
-roles will load most of the data.
+roles will load most of the data.  
+
+Note that this use case is not supported 100% yet and you may run into some issues because of cached access tokens. Also, each time that you run the Configuration Wizard you will need to add the global admin permissions back to the user so that the wizard can finish successfully. Our current recommendation is to continue using a global admin account but we do acknowledge that this may not be possible in your environment. Please don't hesitate to [contact us](https://www.syskit.com/company/contact-us) if you run into any issues setting this up.
+
+### SysKit Trace App Permissions
+
+{% hint style="warning" %}
+**Please note!**  
+Permissions described bellow are automatically granted to SysKit Trace by giving consent during the configuration process.
+{% endhint %}
+
+SysKit Trace will create an Azure AD Application when establishing a [connection](../installation-and-configuration/office-365-connection-details.md) to your tenant.  
+SysKit Trace requires permissions to access several Microsoft APIs. There are two types of required permissions:
+
+* **Application permissions** - define what SysKit Trace can do without a signed in user.
+* **Delegated permissions** - define what SysKit Trace can do in the name of the signed in user.
+
+The following permissions are required for the SysKit Trace Azure AD Application:
