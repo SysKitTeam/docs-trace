@@ -33,7 +33,7 @@ This is also the place where you can configure automatic snapshots and notificat
 
 ### Service Settings
 
-Provide local service account that will be used for running the automatic actions performed by SysKit Trace such as the scheduled data collection.
+Provide local service account that will be used for running the automatic actions performed by SysKit Trace such as scheduled data collection.
 
 Supported service account formats:
 

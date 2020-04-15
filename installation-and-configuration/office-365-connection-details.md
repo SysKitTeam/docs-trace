@@ -23,7 +23,7 @@ SysKit Trace will automatically install the following PowerShell modules to coll
 - AzureAD
 - Microsoft.PowerApps.Administration.PowerShell
 
-In addition to this SysKit Trace uses [Office365DSC](https://github.com/microsoft/Office365DSC) but it is not installed as a module available to the user.
+In addition to this, SysKit Trace uses [Office365DSC](https://github.com/microsoft/Office365DSC) but it is not installed as a module available to the user.
 
 ## SysKit Trace Azure AD Application
 When configuring SysKit Trace an Azure Active Directory Application will be created and pre-consented for the user to collect the data from the tenant. This enables us to consume all of the APIs provided by Microsoft in a standard and well defined way. It also enables us to use modern authentication including Multi-Factor Authentication.  
@@ -40,8 +40,6 @@ SysKit Trace uses certificates for two reasons.
 
 A certificate is created and imported into the current user personal certificates for both the user configuring SysKit Trace and the service account that is configured to run the SysKit Trace service.  
 We advise that the machine where SysKit Trace is installed is secure and not shared with other people.
-
-
 
 
 ### Deleting the SysKit Trace Azure Active Directory Application

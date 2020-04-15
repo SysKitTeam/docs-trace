@@ -27,7 +27,7 @@ Product activation is a simple process that occurs during registration of the pr
 
 ## Who will be required to activate their products?
 
-Everyone who downloads SysKit Trace will be required to activate the product. If the product is ordered online from the SysKit website, the product account information will be sent via email. If the product is downloaded from the SysKit website, you will be provided with a temporary license to evaluate the tool for a limited amount of time.
+Anyone who downloads SysKit Trace will be required to activate the product. If the product is ordered online from the SysKit website, the product account information will be sent via email. If the product is downloaded from the SysKit website, you will be provided with a temporary license to evaluate the tool for a limited amount of time.
 
 ## How soon must I activate my product?
 SysKit Trace will not work without a valid product key. When downloading the tool you will be provided with an evaluation license that is valid for a limited amount of time.

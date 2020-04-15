@@ -35,7 +35,6 @@ Allows you to customize the default configuration settings that are collected wh
 1. the default mode of the Take Snapshot Wizard
 2. by the SysKit Trace service when creating a snapshot
 
-
 ## Compare
 
 Here you can define with which snapshot the current one is compared when detecting configuration changes.
