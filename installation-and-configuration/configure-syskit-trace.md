@@ -29,7 +29,27 @@ For a detailed overview of the **SysKit Trace system and permission requirements
 Click the **Connect** button to connect SysKit Trace to your Office 365 tenant. **You need to provide the Office 365 global admin account.** This [account](../requirements/permission-requirements.md#global-administrator) will be used to configure the [tenant connection](./office-365-connection-details.md).  
 
 Once the login process has finished you will need to provide some additional info for the connection to work. 
-This is also the place where you can configure automatic snapshots and notifications.
+
+#### App Password
+Needed for some workloads. More information on why this is required and how to setup an app password when using Multi-Factor authentication can be found [here](./office-365-connection-details.md#multi-factor-authentication-app-password).
+
+#### Data Collection Schedule
+SysKit Trace comes with a windows service that can create snapshots periodically for you without the need for SysKit Trace to be running.
+The schedule can be setup to be daily, weekly or monthly at a specific day and time.
+
+#### Notification Settings
+Notification settings are closely related to automatic snapshots.  
+Once the snapshot is created by the service, an email will be sent to the configured recipients.  
+- **Send tenant documentation file** - sends the generated documentation file based on the latest created snapshot
+- **Send file with tenant differences when detected** - sends the differences from the last snapshot that is marked as good, or, if one does not exist, the previous snapshot.
+  You can mark a snapshot as good on the [snapshots screen](../get-to-know-syskit-trace/snapshots-screen.md).  
+  If no differences are detected this document will not be sent.
+- **Send only if differences detected** - the documentation file will be sent only when there are some differences between the latest snapshot and the last snapshot that is marked as good, or, if one does not exist, the previous snapshot.
+  You can mark the snapshot as good on the [snapshots screen](../get-to-know-syskit-trace/snapshots-screen.md).   
+- **Format** - the format in which the documentation file will be generated.
+- **Send from email** - email of the user that will be the sender for the notification.
+- **Email addresses to notify** - list the recipient email addresses separated by semicolon. 
+
 
 ### Service Settings
 
