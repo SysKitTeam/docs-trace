@@ -30,7 +30,7 @@ Click the **Connect** button to connect SysKit Trace to your Office 365 tenant. 
 
 Once the login process has finished you will need to provide some additional info for the connection to work. 
 
-#### Password or App Password
+#### App Password
 Needed for some workloads. More information on why this is required and how to setup an app password when using Multi-Factor authentication can be found [here](./office-365-connection-details.md#multi-factor-authentication-app-password).
 
 #### Data Collection Schedule
