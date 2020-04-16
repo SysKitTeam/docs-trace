@@ -10,7 +10,7 @@ date: 1/17/2020
 # Create Snapshot
 
 A snapshot in the context of SysKit Trace is a collection of all the Office 365 configuration settings taken at a specific point in time. 
-There are two ways to obtain a snapshot in SysKit Trace:
+There are two ways to create a snapshot in SysKit Trace:
 
 ## Take Snapshot Wizard
 
