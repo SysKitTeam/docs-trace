@@ -16,7 +16,10 @@ Even when using MFA, the WinRM Basic authentication needs to be enabled, because
 
 ### Enabling Basic Authentication
 
-Note: To enable executing commands from following steps, make sure that *Windows Remote Management* service is running.
+{% hint style="warning" %}
+To enable executing commands from following steps, make sure that *Windows Remote Management* service is running.
+{% endhint %}
+
 
 **1.** To verify that Basic authentication is enabled, run this command in a **Command Prompt**:
 
@@ -32,4 +35,4 @@ If Basic authentication is disabled, you'll get this error when creating a snaps
 
 
 
-For more information about creating PowerShell remote sessions, please visit: [connect-to-scc-powershell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)
+For more information about creating PowerShell remote sessions, please visit: [connect-to-scc-powershell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).

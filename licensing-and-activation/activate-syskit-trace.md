@@ -16,7 +16,7 @@ At any time, you can log in to SysKit [Customers Portal](https://my.syskit.com/)
 
 ## Activation
 
-In order to activate your copy of the SysKit Trace, please proceed with the following steps:
+In order to activate your copy of SysKit Trace, please proceed with the following steps:
 
 
 1. From the left navigation bar on the **Home Screen**, select **Help** and click on the **License Details** section to begin the activation process.

@@ -23,12 +23,6 @@ Check the exact [hardware and software requirements here](../requirements/system
 5. Let the installation wizard finish
 6. The configuration wizard should start automatically after the installation
 
-### Configuration Steps
-1. Connect to the tenant that you wish to collect data for.
-2. Enter the windows service account for the SysKit Trace windows service. The SysKit Trace windows service is used to perform background tasks such as scheduled data collection.
-3. Let the configuration wizard finish setting up the [tenant connection](./office-365-connection-details.md). 
-4. The application should start automatically after the configuration
-
 To continue with the configuration of the application, proceed to the [next article](./configure-syskit-trace.md).
 
 
