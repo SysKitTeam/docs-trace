@@ -34,13 +34,13 @@ Once the login process has finished you will need to provide some additional inf
 Needed for some workloads. More information on why this is required and how to setup an app password when using Multi-Factor authentication can be found [here](./office-365-connection-details.md#multi-factor-authentication-app-password).
 
 #### Data Collection Schedule
-SysKit Trace comes with a windows service that can create snapshots periodically for you without the need for SysKit Trace to be running.
+SysKit Trace comes with a windows service that can periodically create snapshots for you without the need for SysKit Trace to be running.
 The schedule can be setup to be daily, weekly or monthly at a specific day and time.
 
 #### Notification Settings
 Notification settings are closely related to automatic snapshots.  
 Once the snapshot is created by the service, an email will be sent to the configured recipients.  
-- **Send tenant documentation file** - sends the generated documentation file based on the latest created snapshot
+- **Send tenant documentation file** - sends the generated documentation file based on the latest created snapshot.
 - **Send file with tenant differences when detected** - sends the differences from the last snapshot that is marked as good, or, if one does not exist, the previous snapshot.
   You can mark a snapshot as good on the [snapshots screen](../get-to-know-syskit-trace/snapshots-screen.md).  
   If no differences are detected this document will not be sent.
@@ -53,7 +53,7 @@ Once the snapshot is created by the service, an email will be sent to the config
 
 ### Service Settings
 
-Provide local service account that will be used for running the automatic actions performed by SysKit Trace such as scheduled data collection.
+Provide local windows service account that will be used for running the automatic actions performed by SysKit Trace such as scheduled data collection.
 
 Supported service account formats:
 
