@@ -11,7 +11,7 @@ date: 1/20/2020
 **SysKit Trace** is a desktop application, meaning that you need to install it on a Windows machine or server in your environment. Azure virtual machines are supported as well.
 
 {% hint style="warning" %}
-Check the exact [hardware and software requirements ](./requirements.md) for this deployment.
+Check the exact [hardware and software requirements here](../requirements/system-requirements.md).
 {% endhint %}
 
 ### Installation Steps
@@ -29,5 +29,6 @@ Check the exact [hardware and software requirements ](./requirements.md) for thi
 3. Let the configuration wizard finish setting up the [tenant connection](./office-365-connection-details.md). 
 4. The application should start automatically after the configuration
 
+To continue with the configuration of the application, proceed to the [next article](./configure-syskit-trace.md).
 
 
