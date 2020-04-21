@@ -16,7 +16,7 @@ There are two ways to create a snapshot in SysKit Trace:
 
 This section describes how to use the Take Snapshot wizard to create a snapshot.
 
-1. Navigate to the **Home Screen** Screen and click the Take Snapshot button.
+1. Navigate to the **Home Screen** and click the Take Snapshot button.
 2. If you are running the Snapshot Wizard for the first time please **enter the global admin credentials** for Office 365 tenant that you wish to document. The entered credentials will be stored for future data collection \(multiple tenants supported\).
 3. Select the snapshot mode you wish the application to execute. There are three choices:  
 

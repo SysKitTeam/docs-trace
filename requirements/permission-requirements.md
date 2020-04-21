@@ -1,7 +1,7 @@
 ---
 title: Permission Requirements
 description: >-
-  This article discusses permission requirements that are necessary to successfully install and use SysKit Trace
+  This article discusses permission requirements that are necessary to successfully install and use SysKit Trace.
 author: Vinko Bedek
 date: 4/14/2020
 ---
