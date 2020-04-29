@@ -29,18 +29,23 @@ Here you can also change the report throttling options:
 * Modify the maximum number of rows in a report.
 * Modify the maximum number of rows supported in report export.
 
+## Snapshot Options
+
+Allows you to customize the default configuration settings that are collected when a snapshot is created. This selection is used in two places:  
+
+1. the default mode of the Take Snapshot Wizard
+2. by the SysKit Trace service when creating a snapshot
 
 ## Compare
 
 Here you can define with which snapshot the current one is compared when detecting configuration changes.
 
 1. **Previous snapshot** - the current snapshot is compared with the last snapshot taken. 
-2. **Last good configuration** - with this option selected, the current snapshot is compared with the latest snapshot that is marked as good. 
-3. **Selected snapshots** - when this option is selected, you can choose between all your snapshots taken beforehand.
+2. **Last good configuration** - with this option selected, the current snapshot is compared with the latest snapshot that is marked as good.
 
 {% hint style="warning" %}
 **Please note!**  
-If you choose option 2. and there are no snapshots marked as good, SysKit Trace will compare the current snapshot to the last snapshot taken. The same rule applies if you choose option 3. and the selected snapshot gets deleted.
+If you choose option 2. and there are no snapshots marked as good, SysKit Trace will compare the current snapshot to the last snapshot taken.
 {% endhint %}
 
 This section also allows you to define which objects should be compared in the Compare Wizard. The selection you make here will be used as a default template when comparing two Office 365 tenants, but you can modify it directly in the Compare Wizard each time you use it.

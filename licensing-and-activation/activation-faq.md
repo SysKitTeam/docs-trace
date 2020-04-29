@@ -7,31 +7,32 @@ description: >-
 
 # Activation FAQ
 
-## What features are available in the trial?
+## What features are available in the evaluation license?
 
-The trial is the latest released application version containing all available application features.
+The evaluation license contains all the available application features.
 
-## What are the trial limitations?
+## What are the evaluation license limitations?
 
-The trial version of SysKit Trace has a couple of limitations:
+The evaluation license of SysKit Trace has a couple of limitations:
 
 * Limited information in the generated documentation and exported reports. Limited export in the .docx or .xlsx formats. 
 * The comparison feature is completely functional when comparing the same tenant.
-  * Comparison of different Office365 tenants with snapshots made with the trial software is not possible.
+  * Comparison of different Office 365 tenants with snapshots made with the evaluation license is not possible.
 
 If you would like to see more about the limited features, [contact us](https://www.syskit.com/company/contact-us/) and we will be more than happy to organize a demo for you and your colleagues to show SysKit Trace at its full strength.
 
 ## What happens during product activation?
 
-Product activation is a simple process that occurs during registration of the purchased product. The license information is entered and then authenticated with the SysKit product activation server in order to activate the product. The entire activation process is quick and easy, and the majority of users will have to perform product activation only once.
+Product activation is a simple process that occurs during registration of the product. The license information is entered and then authenticated with the SysKit product activation server in order to activate the product. The entire activation process is quick and easy, and the majority of users will have to perform product activation only once.
 
 ## Who will be required to activate their products?
 
-Anyone who purchases SysKit Trace will be required to activate the product. If the product is ordered online from the SysKit website, the product account information will be sent via email.
+Anyone who downloads SysKit Trace will be required to activate the product. If the product is ordered online from the SysKit website, the product account information will be sent via email. If the product is downloaded from the SysKit website, you will be provided with a temporary license to evaluate the tool for a limited amount of time.
 
 ## How soon must I activate my product?
-
-It is recommended you activate your product within the 14 days of the trial period. After the period expires, the application will stop working until it is activated.
+SysKit Trace will not work without a valid product key. When downloading the tool you will be provided with an evaluation license that is valid for a limited amount of time.
+This license, as the name suggests is for evaluation purposes only, and some limitations apply. Once the evaluation period is over you will need to acquire a proper license by buying the software.
+The default evaluation period is set to 14 days. In special circumstances SysKit can extend your evaluation period if a valid reason is provided. After the period expires, the application will stop working until it is activated with a new license.
 
 ## How do I activate my product?
 
@@ -43,7 +44,7 @@ We use the information only to verify that your product is used within the scope
 
 ## What is product activation?
 
-Product activation is an anonymous, secure and hassle-free process that authenticates licensed users during the installation process. The process verifies that the product product account information indentified by the product key is genuine and has not been activated on more systems than allowed by the SysKit End-User License Agreement \(EULA\).
+Product activation is an anonymous, secure and hassle-free process that authenticates licensed users during the installation process. The process verifies that the product account information indentified by the product key is genuine and has not been activated on more systems than allowed by the SysKit End-User License Agreement \(EULA\).
 
 ## Why does SysKit require their customers to activate the software?
 

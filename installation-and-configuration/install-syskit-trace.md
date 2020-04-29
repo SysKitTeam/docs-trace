@@ -11,7 +11,7 @@ date: 1/20/2020
 **SysKit Trace** is a desktop application, meaning that you need to install it on a Windows machine or server in your environment. Azure virtual machines are supported as well.
 
 {% hint style="warning" %}
-Check the exact [hardware and software requirements ](./requirements.md) for this deployment.
+Check the exact [hardware and software requirements here](../requirements/system-requirements.md).
 {% endhint %}
 
 ### Installation Steps
@@ -23,11 +23,6 @@ Check the exact [hardware and software requirements ](./requirements.md) for thi
 5. Let the installation wizard finish
 6. The configuration wizard should start automatically after the installation
 
-### Configuration Steps
-1. Connect to the tenant that you wish to collect data for.
-2. Enter the windows service account for the SysKit Trace windows service. The SysKit Trace windows service is used to perform background tasks such as scheduled data collection.
-3. Let the configuration wizard finish setting up the [tenant connection](./office-365-connection-details.md). 
-4. The application should start automatically after the configuration
-
+To continue with the configuration of the application, proceed to the [next article](./configure-syskit-trace.md).
 
 

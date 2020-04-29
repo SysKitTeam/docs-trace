@@ -14,7 +14,7 @@ The following commands are available:
 
 * **Take Snapshot**– create a snapshot of your Office 365 tenant settings.
 * **Open** – allows you to open a previously saved snapshot.
-* **Generate** – generate settings documentation in a **.docx, .pdf or .xlsx** file format.
+* **Generate** – generate settings documentation in a **.xlsx, .docx or .pdf** file format.
 * **Change Styles** – customize the documentation's final look, choose different color styles or upload a custom template.
 * **Export as PDF** button allows you to export the selected report as a PDF document.
 * **Export as XLSX** button allows you to export the selected report as an XLSX document.
