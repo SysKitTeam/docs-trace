@@ -40,8 +40,12 @@ SysKit Trace uses certificates for two reasons.
 1. Because most of the workloads that are collected support it.
 2. And more importantly, because it is the [preferred way](https://docs.microsoft.com/en-us/azure/active-directory/develop/identity-platform-integration-checklist#security) of establishing application authentication.
 
-A certificate is created and imported into the current user personal certificates for both the user configuring SysKit Trace and the service account that is configured to run the SysKit Trace service.  
+A certificate is created and imported into the local machine root store.  
+
+{% hint style="warning" %}
+**Please note!**  
 We advise that the machine where SysKit Trace is installed is secure and not shared with other people.
+{% endhint %}
 
 
 ### Deleting the SysKit Trace Azure Active Directory Application
