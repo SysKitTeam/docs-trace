@@ -5,7 +5,7 @@ We have prepared a new version of SysKit Trace, and it comes with some important
 [Try SysKit Trace Free](https://www.syskit.com/products/trace/download/)
 
 **Product version:** 2.0.0  
-**Build number:** 581  
+**Build number:** 617  
 **Release date:** Apr 29, 2020
 
 ## Support for Multi-Factor Authentication
