@@ -35,4 +35,6 @@
   * [Teams](report-overview/teams.md)
   * [Office 365](report-overview/office-365.md)
   * [PowerApps](report-overview/powerapps.md)
+  * [Azure Active Directory](report-overview/azure-active-directory.md)
+  * [Planner](report-overview/planner.md)
 
