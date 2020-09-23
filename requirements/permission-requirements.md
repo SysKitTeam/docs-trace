@@ -66,7 +66,9 @@ The following permissions are required for the SysKit Trace Azure AD Application
 | Permissions | Type | Reason |
 | :--- | :--- | :--- |
 | Read all administrative units | Application | Allows SysKit Trace to read administrative units and administrative unit membership. |
+| Read directory data | Application | Allows SysKit Trace to read directory data. |
 | Read all groups | Application | Allows SysKit Trace to read group properties. |
+| Read all groups | Delegated | Allows SysKit Trace to read group properties as signed in user. Required for Planner.|
 | Read all group memberships | Application | Allows SysKit Trace to read group memberships. |
 | Send mail as any user | Application | Allows SysKit Point to send emails so you can be notified ie. when a snapshot finishes. |
 | Have full control of all site collections | Application | Allows SysKit Trace to collect data from SharePoint. Unfortunately full control is required and it will not work with read permissions. |
