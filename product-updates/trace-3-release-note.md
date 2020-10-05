@@ -6,7 +6,7 @@ We have prepared a new version of SysKit Trace, and it comes with some important
 [Try SysKit Trace Free](https://www.syskit.com/products/trace/download/)
 
 **Product version:** 3.0.0  
-**Build number:** 856  
+**Build number:** 859  
 **Release date:** Sep 29, 2020
 
 
