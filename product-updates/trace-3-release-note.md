@@ -13,7 +13,7 @@ We have prepared a new version of SysKit Trace, and it comes with some important
 
 ## Support for Azure Active Directory and Planner
 
-We have added initial support for two new Microsoft 365 services, Azure Active Directory and Planner. These are just the first batch of resources for new services, and in future releases, we will add more settings to cover both services fully. To help us determine the order of new resources we add to SysKit Trace you can use our [feedback portal](https://feedback.syskit.com/?project=TRACE). To see what new resources are available, head over [here](../report-overview/).
+We have added initial support for two new Microsoft 365 services, Azure Active Directory and Planner. These are just the first batch of resources for new services, and in future releases, we will add more settings to cover both services fully. To help us determine the order of new resources we add to SysKit Trace you can use our [feedback portal](https://feedback.syskit.com/?project=TRACE). To see what new resources are available, head over [here](../report-overview/azure-active-directory.md).
 
 ## Resources Live Updates
 
