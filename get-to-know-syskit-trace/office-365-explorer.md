@@ -4,7 +4,7 @@ author: Vinko Bedek
 date: 1/16/2017
 ---
 
-# Office 365 Explorer Screen
+# Office 365 Explorer
 
 Office 365 Explorer allows administrators to explore Office 365 configuration settings that SysKit Trace has loaded. Use the explorer on the left to browse and select specific reports.
 
@@ -20,7 +20,7 @@ The following commands are available:
 * **Export as XLSX** button allows you to export the selected report as an XLSX document.
 * **Export as DOCX** button allows you to export the selected report as a DOCX document.
 * **Compare Wizard** – read more about the [Compare Wizard](../how-to/compare-settings.md).
-* **Options** – read more about the [Options Wizard](../get-to-know-syskit-trace/options-wizard.md).
+* **Options** – read more about the [Options Wizard](options-wizard.md).
 
 ## View ribbon
 

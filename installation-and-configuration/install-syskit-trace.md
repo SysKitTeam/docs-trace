@@ -1,7 +1,6 @@
 ---
 title: Install SysKit Trace
-description: >-
-  This article explains how to install SysKit Trace.
+description: This article explains how to install SysKit Trace.
 author: Vinko Bedek
 date: 1/20/2020
 ---
@@ -14,7 +13,7 @@ date: 1/20/2020
 Check the exact [hardware and software requirements here](../requirements/system-requirements.md).
 {% endhint %}
 
-### Installation Steps
+## Installation Steps
 
 1. Download the SysKit Trace setup file.
 2. Unpack and run the setup file - **SysKitTraceSetup.exe**. The wizard will guide you through the installation steps.
@@ -23,6 +22,5 @@ Check the exact [hardware and software requirements here](../requirements/system
 5. Let the installation wizard finish
 6. The configuration wizard should start automatically after the installation
 
-To continue with the configuration of the application, proceed to the [next article](./configure-syskit-trace.md).
-
+To continue with the configuration of the application, proceed to the [next article](configure-syskit-trace.md).
 

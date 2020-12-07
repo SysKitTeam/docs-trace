@@ -30,9 +30,8 @@ Product activation is a simple process that occurs during registration of the pr
 Anyone who downloads SysKit Trace will be required to activate the product. If the product is ordered online from the SysKit website, the product account information will be sent via email. If the product is downloaded from the SysKit website, you will be provided with a temporary license to evaluate the tool for a limited amount of time.
 
 ## How soon must I activate my product?
-SysKit Trace will not work without a valid product key. When downloading the tool you will be provided with an evaluation license that is valid for a limited amount of time.
-This license, as the name suggests is for evaluation purposes only, and some limitations apply. Once the evaluation period is over you will need to acquire a proper license by buying the software.
-The default evaluation period is set to 14 days. In special circumstances SysKit can extend your evaluation period if a valid reason is provided. After the period expires, the application will stop working until it is activated with a new license.
+
+SysKit Trace will not work without a valid product key. When downloading the tool you will be provided with an evaluation license that is valid for a limited amount of time. This license, as the name suggests is for evaluation purposes only, and some limitations apply. Once the evaluation period is over you will need to acquire a proper license by buying the software. The default evaluation period is set to 14 days. In special circumstances SysKit can extend your evaluation period if a valid reason is provided. After the period expires, the application will stop working until it is activated with a new license.
 
 ## How do I activate my product?
 

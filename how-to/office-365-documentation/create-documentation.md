@@ -7,7 +7,7 @@ author: Vinko Bedek
 date: 01/17/2020
 ---
 
-# Create Tenant Documentation
+# Create-Documentation
 
 This section describes how you can generate Office 365 tenant settings documentation using SysKit Trace.
 

@@ -1,12 +1,13 @@
 ---
 title: System Requirements
 description: >-
-  This article lists hardware and software requirements that are necessary to install and use SysKit Trace.
+  This article lists hardware and software requirements that are necessary to
+  install and use SysKit Trace.
 author: Vinko Bedek
 date: 1/20/2020
 ---
 
-# Requirements
+# System Requirements
 
 In order to prepare for the SysKit Trace deployment, the following requirements need to be met:
 
@@ -24,7 +25,7 @@ In order to prepare for the SysKit Trace deployment, the following requirements 
 * PowerShell 5.1 or above 
 * .NET Framework 4.7.2 or above
 
-SysKit Trace will also install additional PowerShell modules once the first snapshot attempt has been made. The modules are as follows: 
+SysKit Trace will also install additional PowerShell modules once the first snapshot attempt has been made. The modules are as follows:
 
 * ReverseDSC
 * SharePointPnPPowerShellOnline
