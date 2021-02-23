@@ -1,9 +1,5 @@
 ---
-title: PowerApps
-description: >-
-  This article lists the currently supported PowerApps reports with all of the
-  properties that SysKit Trace loads.
-date: 9/22/2020
+description: This article lists the currently supported PowerApps reports with all of the properties that SysKit Trace loads.
 ---
 
 # PowerApps

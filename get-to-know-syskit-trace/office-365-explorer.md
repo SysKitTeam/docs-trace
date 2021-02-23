@@ -1,7 +1,5 @@
 ---
 description: This article lists all options available in Office 365 Explorer.
-author: Vinko Bedek
-date: 1/16/2017
 ---
 
 # Office 365 Explorer

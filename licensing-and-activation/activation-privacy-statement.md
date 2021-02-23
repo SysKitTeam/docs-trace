@@ -1,7 +1,5 @@
 ---
 description: Read important info about the activation process.
-author: Vinko Bedek
-date: 1/17/2020
 ---
 
 # Activation Privacy Statement

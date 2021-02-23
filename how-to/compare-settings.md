@@ -1,11 +1,5 @@
 ---
-title: Compare Wizard
-description: >-
-  This article describes the SysKit Trace Compare Wizard and available
-  comparison types. Track changes in your settings, compare different O365
-  tenants.
-author: Vinko Bedek
-date: 1/16/2020
+description: This article describes the SysKit Trace Compare Wizard and available comparison types. Track changes in your settings, compare different O365 tenants.
 ---
 
 # Compare Settings

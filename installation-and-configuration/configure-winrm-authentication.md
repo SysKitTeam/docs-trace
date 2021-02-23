@@ -1,7 +1,5 @@
 ---
-description: >-
-  This article explains how to configure WinRm authentication on your machine to
-  successfully run snapshots.
+description: This article explains how to configure WinRm authentication on your machine to successfully run snapshots.
 ---
 
 # Configure WinRM Authentication

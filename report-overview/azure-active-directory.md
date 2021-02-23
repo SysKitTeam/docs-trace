@@ -1,9 +1,5 @@
 ---
-title: Azure Active Directory
-description: >-
-  This article lists the currently supported Azure Active Directory reports with
-  all of the properties that SysKit Trace loads.
-date: 9/22/2020
+description: This article lists the currently supported Azure Active Directory reports with all of the properties that SysKit Trace loads.
 ---
 
 # Azure Active Directory

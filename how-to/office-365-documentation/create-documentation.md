@@ -1,10 +1,5 @@
 ---
-title: Create Documentation
-description: >-
-  This article describes how to produce Office 365 settings documentation using
-  SysKit Trace.
-author: Vinko Bedek
-date: 01/17/2020
+description: This article describes how to produce Office 365 settings documentation using SysKit Trace.
 ---
 
 # Create-Documentation

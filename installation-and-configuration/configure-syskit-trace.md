@@ -1,8 +1,5 @@
 ---
-title: Configure SysKit Trace
 description: This article explains how to configure SysKit Trace.
-author: Vinko Bedek
-date: 1/20/2020
 ---
 
 # Configure SysKit Trace

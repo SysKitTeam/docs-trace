@@ -1,10 +1,5 @@
 ---
-title: Office 365 Connection Details
-description: >-
-  This article explains how SysKit Trace connects to Office 365 and collects
-  data.
-author: Vinko Bedek
-date: 3/17/2020
+description: This article explains how SysKit Trace connects to Office 365 and collects data.
 ---
 
 # Office 365 Connection Details

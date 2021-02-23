@@ -1,10 +1,5 @@
 ---
-title: Options Wizard
-description: >-
-  This article explains how to use the Options wizard to adjust and change your
-  SysKit Trace configuration.
-author: Vinko Bedek
-date: 1/16/2020
+description: This article explains how to use the Options wizard to adjust and change your SysKit Trace configuration.
 ---
 
 # Options Wizard

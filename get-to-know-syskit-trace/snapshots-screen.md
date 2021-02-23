@@ -1,10 +1,5 @@
 ---
-title: Snapshots Screen
-description: >-
-  This article states how to use Snapshots Screen and track changes made to your
-  Office 365 tenant settings during its lifetime.
-author: Vinko Bedek
-date: 6/23/2020
+description: This article states how to use Snapshots Screen and track changes made to your Office 365 tenant settings during its lifetime.
 ---
 
 # Snapshots Screen

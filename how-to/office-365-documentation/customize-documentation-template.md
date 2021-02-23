@@ -1,10 +1,5 @@
 ---
-title: Customize Documentation Template
-description: >-
-  This article describes how to use a documentation template (.dotx) to generate
-  Office 365 settings documentation with SysKit Trace.
-author: Vinko Bedek
-date: 01/17/2020
+description: This article describes how to use a documentation template (.dotx) to generate Office 365 settings documentation with SysKit Trace.
 ---
 
 # Customize Documentation Template

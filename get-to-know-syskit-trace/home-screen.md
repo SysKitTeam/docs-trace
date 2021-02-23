@@ -1,10 +1,5 @@
 ---
-title: Home Screen
-description: >-
-  This article describes the available SysKit Trace Home Screen actions and when
-  to use them.
-author: Vinko Bedek
-date: 1/16/2017
+description: This article describes the available SysKit Trace Home Screen actions and when to use them.
 ---
 
 # Home Screen

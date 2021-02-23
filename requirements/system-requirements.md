@@ -1,10 +1,5 @@
 ---
-title: System Requirements
-description: >-
-  This article lists hardware and software requirements that are necessary to
-  install and use SysKit Trace.
-author: Vinko Bedek
-date: 1/20/2020
+description: This article lists hardware and software requirements that are necessary to install and use SysKit Trace.
 ---
 
 # System Requirements

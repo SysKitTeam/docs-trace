@@ -1,9 +1,5 @@
 ---
-title: Security and Compliance
-description: >-
-  This article lists the currently supported Security and Compliance reports
-  with all of the properties that SysKit Trace loads.
-date: 9/22/2020
+description: This article lists the currently supported Security and Compliance reports with all of the properties that SysKit Trace loads.
 ---
 
 # Security and Compliance

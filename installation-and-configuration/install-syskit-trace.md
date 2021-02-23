@@ -1,8 +1,5 @@
 ---
-title: Install SysKit Trace
 description: This article explains how to install SysKit Trace.
-author: Vinko Bedek
-date: 1/20/2020
 ---
 
 # Install SysKit Trace

@@ -1,8 +1,5 @@
 ---
-title: Activate SysKit Trace
 description: This article outlines the steps needed to perform the product activation.
-author: Vinko Bedek
-date: 1/17/2020
 ---
 
 # Activate SysKit Trace
