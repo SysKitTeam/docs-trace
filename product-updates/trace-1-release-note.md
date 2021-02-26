@@ -4,7 +4,7 @@ We are very excited to announce the newest SysKit product – SysKit Trace!
 
 SysKit Trace is a centralized solution for documenting and tracking changes on Office 365 tenants. If you are thinking „SPDocKit for Office 365“, you are right. SysKit Trace allows Office 365 administrators to document and report on different Office 365 workloads. The first version will collect the configuration of SharePoint Online, Exchange Online, Teams, OneDrive, and Security and Compliance.
 
-[Try SysKit Trace Free](https://www.syskit.com/products/trace/download/)
+[Schedule a demo](https://www.syskit.com/products/trace/request-a-demo/)
 
 **Product version:** 1.0.0  
 **Build number:** 274  
@@ -36,5 +36,5 @@ It is a plug and play solution, installed in a blink of an eye.
 
 Your feedback and suggestions will help us build better SharePoint admin tools, so please feel free to [contact](https://feedback.syskit.com/?project=TRACE) us and send us your feedback and suggestions.
 
-[Try SysKit Trace Free](https://www.syskit.com/products/trace/download/)
+[Schedule a demo](https://www.syskit.com/products/trace/request-a-demo/)
 

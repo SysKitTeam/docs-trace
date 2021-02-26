@@ -2,7 +2,7 @@
 
 We have prepared a new version of SysKit Trace, and it comes with some important and exciting new features. SysKit Trace has introduced support for the first Azure Active Directory and Planner resources. To increase the delivery of new resources to our customers, SysKit Trace can now update the resources without a new version. Not yet a customer? Download a free trial.
 
-[Try SysKit Trace Free](https://www.syskit.com/products/trace/download/)
+[Schedule a demo](https://www.syskit.com/products/trace/request-a-demo/)
 
 **Product version:** 3.0.0  
 **Build number:** 859  
@@ -26,5 +26,5 @@ With this system in place, we expect and hope to introduce new resources to SysK
 
 Your feedback and suggestions will help us build better SharePoint admin tools, so please feel free to [contact](https://feedback.syskit.com/?project=TRACE) us and send us your feedback and suggestions.
 
-[Try SysKit Trace Free](https://www.syskit.com/products/trace/download/)
+[Schedule a demo](https://www.syskit.com/products/trace/request-a-demo/)
 

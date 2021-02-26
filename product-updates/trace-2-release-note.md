@@ -2,7 +2,7 @@
 
 We have prepared a new version of SysKit Trace, and it comes with some important and exciting new features. SysKit Trace now fully supports accounts with multi-factor authentication enabled, and now has built-in automatization and alerting capabilities. Not yet a customer? Download a free trial.
 
-[Try SysKit Trace Free](https://www.syskit.com/products/trace/download/)
+[Schedule a demo](https://www.syskit.com/products/trace/request-a-demo/)
 
 **Product version:** 2.0.0  
 **Build number:** 617  
@@ -32,5 +32,5 @@ We have spent the past couple of months implementing new reports on Office 365 c
 
 Your feedback and suggestions will help us build better SharePoint admin tools, so please feel free to [contact](https://feedback.syskit.com/?project=TRACE) us and send us your feedback and suggestions.
 
-[Try SysKit Trace Free](https://www.syskit.com/products/trace/download/)
+[Schedule a demo](https://www.syskit.com/products/trace/request-a-demo/)
 
