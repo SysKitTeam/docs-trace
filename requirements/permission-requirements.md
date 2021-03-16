@@ -64,11 +64,16 @@ The following permissions are required for the SysKit Trace Azure AD Application
 | Permissions | Type | Reason |
 | :--- | :--- | :--- |
 | Read all administrative units | Application | Allows SysKit Trace to read administrative units and administrative unit membership. |
+| Read Microsoft Intune apps | Application | Allows SysKit Trace to read Intune apps. |
+| Read Microsoft Intune device configuratin and policies | Application | Allows SysKit Trace to read Intune device configuration and policies. |
+| Read Microsoft Intune devices | Application | Allows SysKit Trace to read Intune devices. |
+| Read Microsoft Intune configuration | Application | Allows SysKit Trace to read Intune configuration. |
 | Read directory data | Application | Allows SysKit Trace to read directory data. |
 | Read all groups | Application | Allows SysKit Trace to read group properties. |
 | Read all groups | Delegated | Allows SysKit Trace to read group properties as signed in user. Required for Planner. |
 | Read all group memberships | Application | Allows SysKit Trace to read group memberships. |
 | Send mail as any user | Application | Allows SysKit Point to send emails so you can be notified ie. when a snapshot finishes. |
+| Read your organization's policies | Application | Allows SysKit Trace to read policies. |
 | Have full control of all site collections | Application | Allows SysKit Trace to collect data from SharePoint. Unfortunately full control is required and it will not work with read permissions. |
 | Sign users in | Delegated | Allows SysKit Trace to collect data from your environment as signed in user. |
 | Read all users' full profiles | Delegated | Allows SysKit Trace to read your users profiles and show you reports based on that data. |
@@ -105,3 +110,12 @@ The following permissions are required for the SysKit Trace Azure AD Application
 | :--- | :--- | :--- |
 | Access Azure Service Management as organization users | Delegated | Allows SysKit Trace to collect data about PowerApps. |
 
+**Exchange**
+| Permissions | Type | Reason |
+| :--- | :--- | :--- |
+| Manage Exchange As Application | Application | Allows SysKit Trace to read data from Exchange. |
+
+{% hint style="warning" %}  
+**Please note!**  
+The SysKit Trace service principal will also be added to the Exchange Administrators role to support the data collection. The Microsoft documentation (found [here](https://docs.microsoft.com/en-us/powershell/exchange/app-only-auth-powershell-v2?view=exchange-ps#step-5-assign-azure-ad-roles-to-the-application)) states that it's possible with other roles, but from our experience, only the Exchange Administrators role worked for collecting all of the data.  
+{% endhint %}

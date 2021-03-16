@@ -39,4 +39,5 @@
   * [PowerApps](report-overview/powerapps.md)
   * [Azure Active Directory](report-overview/azure-active-directory.md)
   * [Planner](report-overview/planner.md)
+  * [Intune](report-overview/intune.md)
 
