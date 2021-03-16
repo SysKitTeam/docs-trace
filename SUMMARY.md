@@ -5,6 +5,7 @@
   * [SysKit Trace 1.0.0](product-updates/trace-1-release-note.md)
   * [SysKit Trace 2.0.0](product-updates/trace-2-release-note.md)
   * [SysKit Trace 3.0.0](product-updates/trace-3-release-note.md)
+  * [SysKit Trace 4.0.0](product-updates/trace-4-release-note.md)
 * [Requirements](requirements/README.md)
   * [System Requirements](requirements/system-requirements.md)
   * [Permission Requirements](requirements/permission-requirements.md)
