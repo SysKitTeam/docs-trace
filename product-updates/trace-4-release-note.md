@@ -5,7 +5,7 @@ We have prepared a new version of SysKit Trace, and it brings some exciting new 
 [Schedule a demo](https://www.syskit.com/products/trace/request-a-demo/)
 
 **Product version:** 4.0.0  
-**Build number:** 1113  
+**Build number:** 1116  
 **Release date:** Mar 16, 2021
 
 ## Support for Microsoft Intune 
