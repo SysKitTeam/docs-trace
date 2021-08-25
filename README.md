@@ -8,5 +8,4 @@ SysKit Trace is an easy-to-use solution for documenting and administering Office
 * Office 365 configuration settings historical data 
 * unified reporting and export to PDF or Excel
 * **Compare Wizard** that provides intuitive change management to track differences in Office 365 settings over time or between two different tenants
-* **DSC configuration export** to easily clone desired tenant configuration on multiple tenants
 

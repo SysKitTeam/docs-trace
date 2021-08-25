@@ -92,11 +92,11 @@ The following permissions are required for the SysKit Trace Azure AD Application
 | Have full control of all site collections | Application | Allows SysKit Trace to collect data from SharePoint. Unfortunately full control is required and it will not work with read permissions. |
 | Read user profiles | Application | Allows SysKit Trace to read user profile properties. |
 
-**Teams and Skype for Business Administration**
+**Skype and Teams Tenant Admin API**
 
 | Permissions | Type | Reason |
 | :--- | :--- | :--- |
-| Have full access to the Skype Remote Powershell Azure services | Delegated | Allow SysKit Trace to collect Skype for Business data on behalf of the signed-in user. |
+| Access Microsoft Teams and Skype for Business data as the signed in user | Delegated | Allow SysKit Trace to collect Skype for Business data on behalf of the signed-in user. |
 
 **PowerApps Service**
 
@@ -111,6 +111,7 @@ The following permissions are required for the SysKit Trace Azure AD Application
 | Access Azure Service Management as organization users | Delegated | Allows SysKit Trace to collect data about PowerApps. |
 
 **Exchange**
+
 | Permissions | Type | Reason |
 | :--- | :--- | :--- |
 | Manage Exchange As Application | Application | Allows SysKit Trace to read data from Exchange. |
